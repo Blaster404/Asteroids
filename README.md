@@ -19,4 +19,4 @@ Anyways i decided to make this open source if anyone wants the code.
 I could've made this game better by if the asteroid manages to get to the other side, earth hp will be affected. I should've created that but oh well, whatever. Anyways hope you like it.
 
 # Downlaod
-1. Just download the file lol. Open the file which has .sb2 or .sb behind it, and there you go, enjoy.
+Just download the file lol. Open the file which has .sb2 or .sb behind it, and there you go, enjoy.
